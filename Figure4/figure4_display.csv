@@ -1,0 +1,5 @@
+Device,ExclusionThreshold,ConcordantCount,NIncluded,Concordance,CI95_Lower,CI95_Upper
+NIRSIT-X,5,22,24,91.7%,74.2%,97.7%
+NIRSIT-X,10,16,16,100.0%,80.6%,100.0%
+INVOS,5,22,28,78.6%,60.5%,89.8%
+INVOS,10,20,25,80.0%,60.9%,91.1%

@@ -1,0 +1,3 @@
+Device,NObservations,NSubjects,Intercept,Slope,SlopeP
+NIRSIT-X,38,8,22.981,0.248,3.423e-09
+INVOS,37,8,7.376,0.258,0.0006124

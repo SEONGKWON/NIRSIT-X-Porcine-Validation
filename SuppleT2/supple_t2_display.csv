@@ -1,0 +1,7 @@
+Device,Comparison,Raw_p,Holm_adjusted_p,Z_value,Effect_size_r
+NIRSIT-X,Baseline vs T1,0.012,0.035,2.450,0.866
+NIRSIT-X,Baseline vs T2,0.012,0.035,2.450,0.866
+NIRSIT-X,Baseline vs T3,0.018,0.035,-2.282,0.862
+INVOS,Baseline vs T1,0.018,0.054,2.282,0.862
+INVOS,Baseline vs T2,0.021,0.054,2.240,0.792
+INVOS,Baseline vs T3,0.068,0.068,-1.750,0.619
