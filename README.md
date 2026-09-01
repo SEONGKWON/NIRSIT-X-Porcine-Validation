@@ -2,8 +2,6 @@
 
 This repository reproduces the statistical tables and figures of the paper from frozen, analysis-ready inputs. Each folder corresponds to one manuscript output and is self-contained: it runs independently of the original raw-data hierarchy, network paths, and spreadsheets. See the README inside each folder for that package's method, sample sizes, caveats, and run instructions.
 
-Code for the deep-learning model used to estimate cortical rSO2 is available at [ ].
-
 ## Requirements
 
 MATLAB R2020a or later with the Statistics and Machine Learning Toolbox. No Python installation or spreadsheet software is required. The committed outputs were generated and verified on R2025b; other releases may differ in the final decimal places.
