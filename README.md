@@ -14,14 +14,7 @@ The committed CSV files are derived, analysis-ready values rather than raw recor
 
 ## Citation
 
-> [Authors]. "AI-assisted High-Density Near-Infrared Spectroscopy System for Cerebral Oxygen Saturation Measurement in a Porcine Ischemia Model." *[Journal]*, [Year]. [DOI]
-
-Repository DOI: [ ]
-
 ## License
-
-[ ] — see [`LICENSE`](LICENSE).
 
 ## Contact
 
-[Corresponding author], [affiliation], [email]
